@@ -23,14 +23,23 @@ The drone will change battery if the previous one's capacity is not enough for t
 
 `
 S2, package= 0, distance= 238.7m, battery out=23.9%, battery ret=14.4%
+
 S2, change the battery
+
 S2, package= 1, distance= 513.7m, battery out=64.8%, battery ret=31.0%
+
 S2, change the battery
+
 S2, package= 2, distance= 60.8m,  battery out= 7.8%, battery ret= 3.7%
+
 S2, package= 3, distance= 199.0m, battery out=30.0%, battery ret=12.0%
+
 S2, change the battery
+
 S2, package= 4, distance= 313.8m, battery out=28.6%, battery ret=18.9%
+
 S2, total batteries required: 4
+
 S2, total flight distance=2652.0 meters, total flight time= 631 seconds
 `
 
@@ -40,13 +49,21 @@ To make better use of the batteries, the program is now modified so that after e
 
 `
 S3, package= 0, distance= 238.7m, battery out=23.9%, battery ret=14.4%
+
 S3, package= 2, distance= 60.8m,  battery out= 7.8%, battery ret= 3.7%
+
 S3, package= 3, distance= 199.0m, battery out=30.0%, battery ret=12.0%
+
 S3, change the battery
+
 S3, package= 1, distance= 513.7m, battery out=64.8%, battery ret=31.0%
+
 S3, change the battery
+
 S3, package= 4, distance= 313.8m, battery out=28.6%, battery ret=18.9%
+
 S3, total batteries required: 3
+
 S3, total flight distance=2652.0 meters, total flight time= 631 seconds
 `
 ## Stage 4: Set departing location
@@ -55,14 +72,23 @@ This stage will further ultilize the use of batteries, by setting the departing 
 
 `
 S4, centroid location x= 29.4m, y= 174.1m
+
 S4, package= 0, distance= 379.2m, battery out=37.9%, battery ret=22.9%
+
 S4, package= 2, distance= 136.6m, battery out=17.6%, battery ret= 8.2%
+
 S4, change the battery
+
 S4, package= 1, distance= 337.6m, battery out=42.6%, battery ret=20.4%
+
 S4, package= 3, distance= 89.1m,  battery out=13.4%, battery ret= 5.4%
+
 S4, change the battery
+
 S4, package= 4, distance= 149.8m, battery out=13.7%, battery ret= 9.0%
+
 S4, total batteries required: 3
+
 S4, total flight distance=2184.5 meters, total flight time= 520 seconds
 `
 
