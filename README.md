@@ -6,7 +6,7 @@ This project is to compute delivery sequences for drones that deliver parcels to
 
 This stage will read the file into the dataset. Once the entire dataset has been read, the program should print the total number of data lines that were read, the first and last of the input records, and the total of the package weights. Sample output:
 
-   S1, total data lines: 5\
+   S1, total data lines: 5<br/>
    S1, first data line : x= 150.6, y=-185.2, kg=2.50   
    S1, final data line : x= -27.8, y= 312.6, kg=1.95  
    S1, total to deliver: 18.61 kg
